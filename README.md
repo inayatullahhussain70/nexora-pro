@@ -1,4 +1,18 @@
-# NEXORA PRO 🚀
+# NEXORA PRO 🚀NEXORA UI
+   ↓
+User types a question
+   ↓
+Frontend sends request
+   ↓
+Your backend/server
+   ↓
+AI API
+   ↓
+AI generates answer
+   ↓
+Backend sends answer back
+   ↓
+NEXORA displays it
 
 AI-powered educational learning platform with study tools, quizzes, and progress tracking.
 
